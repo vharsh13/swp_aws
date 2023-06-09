@@ -11,6 +11,7 @@ class LambdaFunctionReader{
         this.functionNames = ['Hello World', 'Hello World Lambda'];
     }
     connectToServer(){
+
         console.log('I am trying to connect with AWS server')
     }
     getFunction(){
